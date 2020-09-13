@@ -1,0 +1,11 @@
+[INFO] [ OK ] Processing of "open_chrome" function is started.
+[INFO] [ OK ] Chrome open completed.
+[INFO] [ OK ] Processing of "url_access" function is started.
+[INFO] [ OK ] open rakudasu login page(https://rakudasu.jp/login).
+[INFO] [ OK ] page open completed.
+[INFO] [ OK ] Processing of "login" function is started.
+[INFO] [ OK ] Login completed.
+[INFO] [ OK ] cahge rakudasu attendances page(https://rakudasu.jp/Attendances).
+[INFO] [ OK ] Processing of "add_time_data" function is started.
+[INFO] [ OK ] add time data completed.
+[INFO] [ OK ] submit 9:30 ~ 18:30.
